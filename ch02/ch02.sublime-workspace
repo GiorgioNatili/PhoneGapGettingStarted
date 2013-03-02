@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"at",
+				"setAttribute"
+			],
+			[
+				"slid",
+				"slideDistance"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fade",
+				"fadeinButtons"
+			],
+			[
+				"sl",
+				"slidePanel"
+			],
+			[
+				"ima",
+				"imagesWidth"
+			],
+			[
+				"scro",
+				"scrollDisabled"
+			],
+			[
+				"comp",
+				"complete"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ba",
+				"background	background-color: hex"
+			],
+			[
+				"bo",
+				"border	border-color: color"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background	background-attachment: scroll/fixed"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ff",
+				"fff"
+			],
+			[
+				"Math",
+				"Math"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "ch03.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/assets/www/index.html",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/assets/www/css/index.css",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/assets/www/index_old.html",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/assets/www/js/index.js",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/ch02.sublime-project",
+		"/Users/giorgionatili/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/src/com/gnstudio/cordova/samples/splash/Main.java",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/AndroidManifest.xml",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/src/com/gnstudio/samples/cordova/splash/Main.java",
+		"/Users/giorgionatili/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/android/src/org/apache/cordova/example/cordovaExample.java",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/common/index.html",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/ios/Main/main.m",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/ios/www/index.html",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch02/ios/www/js/index.js",
+		"/Users/giorgionatili/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/giorgionatili/Desktop/test",
+		"/Users/giorgionatili/Documents/lavori/packt/phonegap/pgay_europe.txt",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/android/assets/www/main.js",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/android/assets/www/index.html",
+		"/Users/giorgionatili/Documents/lavori/packt/phonegap/pgay_europe",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/ios/HelloPG/Classes/AppDelegate.m",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/andorid/AndroidManifest.xml",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/andorid/src/com/gnstudio/samples/cordova/hello/PhonegapSample.java",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ch01/andorid/src/com/gnstudio/samples/cordova/hello/HelloPG.java",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/PGGettinsStartedCH01.sublime-project",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/android/AndroidManifest.xml",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/android/build.xml",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/android/src/com/gnstudio/samples/cordova/hello/HelloPG.java",
+		"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/ios/HelloPG/Classes/AppDelegate.m",
+		"/Library/WebServer/Documents/bid4kite/wp-config.php",
+		"/Users/giorgionatili/Library/Caches/TemporaryItems/Outlook Temp/dart_helper/dart_helper.module",
+		"/Users/giorgionatili/Downloads/results-1.spss",
+		"/Library/WebServer/Documents/karllagerfield/css/book.css",
+		"/Library/WebServer/Documents/karllagerfield/css/form.css",
+		"/Library/WebServer/Documents/karllagerfield/js/collection.js",
+		"/Library/WebServer/Documents/karllagerfield/newgallery.js",
+		"/Library/WebServer/Documents/karllagerfield/app/locale/en/menu.xml",
+		"/Users/giorgionatili/Documents/workspace451/samples/Draw.html",
+		"/Users/giorgionatili/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/giorgionatili/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/giorgionatili/PhoneGapProjects/PGGettinStarted/ch01/android",
+			"/Library/WebServer/Documents/karllagerfield/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"super",
+			"BuildConfig",
+			"h3",
+			"imagesWidth",
+			"buttonsVisi",
+			"initButtons",
+			"$prevBtn",
+			"button",
+			"scrollDisabled",
+			"getNeededSpace",
+			"updateSlideList",
+			"updateSlides",
+			"updateSlidesList",
+			"updateSlideList",
+			"currentSlide",
+			"updateSlideList",
+			"updateSlides",
+			"stopTimer",
+			"processLoadedImg",
+			"nextBtn",
+			"console",
+			"$slidePanel",
+			"slidePanel",
+			"				",
+			"initItems",
+			"img",
+			"imagesWidth",
+			"console",
+			"length",
+			"li",
+			"		$(",
+			"gn",
+			";	",
+			"color",
+			"300",
+			"collectionDetailsContent",
+			"	",
+			"content",
+			"		",
+			"lsm.gnstudio.biz",
+			"user",
+			"order_link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"localhost/lsm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ch02.sublime-project",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control Messages"
+			],
+			[
+				"packac",
+				"Package Control Messages"
+			],
+			[
+				"pac",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 511.0,
+		"selected_items":
+		[
+		],
+		"width": 600.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true
+}

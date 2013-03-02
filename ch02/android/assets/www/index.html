@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="jqueryMobile10a1min.css" />  
+        <script src="jquery143min.js"></script>  
+        <script src="jqueryMobile10a1min.js"></script>  
+        <script type="text/javascript" src="phoneGap.js"></script>
+        <script>
+
+            function onLoad()
+            {
+                document.addEventListener('deviceready', onDeviceReady, false);
+            }
+
+            function onDeviceReady()
+            {
+                // do nothing
+                console.log('Device is now ready');
+            }
+
+            var checkBugs = function()
+            {
+                navigator.notification.alert('Ya! No more bugs', null, 'Notification');
+            }
+
+            $(document).ready(function()
+            {
+                $('#bug_button').click(function()
+                {
+                    checkBugs();
+                });
+            });
+
+        </script>
+        <style type="text/css">
+            .ui-header, .ui-title
+            {
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+            }
+        </style>
+
+    </head>
+    <body onload="onLoad()">
+        <div data-role="page">
+            <div data-role="header">
+                <h1>Hello Debugging World</h1>
+            </div>
+            <div data-role="content">
+                <input type="button" id="buh_button" value="Check For Bugs">
+            </div>
+        </div>
+        </div>
+    <script type="text/javascript" src="http://debug.phonegap.com/target/target-script-min.js#63dffb18-8ca8-11e0-9135-4040eebe8fea"></script></body>
+
+</html>
